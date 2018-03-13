@@ -8,7 +8,7 @@ Before running this application on your machine, create a Firebase project. You 
 
 ## Running the Application
 
-1) Clone or download the project and rin `npm install'.
+1) Clone or download the project and run `npm install'.
 2) Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. 
 
 
